@@ -1,0 +1,17 @@
+.red {
+  background-color: red;
+  width: 500px;
+  height: 300px;
+}
+
+.black{
+  background-color: black;
+  width: 500px;
+  height: 300px;
+}
+
+.gold {
+  background-color: #ffd700;
+  width: 500px;
+  height: 300px;
+}
